@@ -9,7 +9,6 @@
 
 	<?php echo "<p>Hello Fartzilla</p>"; ?>
 
-	<p>Testing Git and Github</p>
 
 </body> 
 
