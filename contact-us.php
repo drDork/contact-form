@@ -28,9 +28,12 @@
   				<td><textarea name="suggestion" id="suggestion"></textarea></td> 
   			</tr>
 
-  		</table> 
+  			<tr> 
+  				<th></th> 
+  				<td><input class="sendbtn" type="submit" value="Send" /></td> 
+  			</tr> 
 
-  		<input type="submit" value="Send" />
+  		</table> 
 
   	</form>
   </div> 
